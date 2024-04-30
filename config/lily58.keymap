@@ -39,10 +39,10 @@
             //                     |      |      |      |        |  |       |      |       |       |
 
             bindings = <
-&kp F1          &kp F2        &kp F3        &kp F4        &kp F5        &kp F6                                &kp F7            &kp F8             &kp F9             &kp F10     &kp F11            &kp F12
-&bt BT_CLR_ALL  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                          &ext_power EP_ON  &ext_power EP_OFF  &ext_power EP_TOG  &sys_reset  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP
-&kp LSHFT       &kp A         &kp S         &kp D         &kp F         &kp G                                 &kp LEFT          &kp DOWN           &kp UP             &kp RIGHT   &kp SEMI           &kp SQT
-&kp LCTRL       &kp Z         &kp X         &kp C         &kp V         &kp B         &kp LBKT     &kp RBKT   &kp BSLH          &kp EQUAL          &kp COMMA          &kp DOT     &kp FSLH           &kp RSHFT
+&kp F1          &kp F2        &kp F3        &kp F4        &kp F5        &kp F6                                &kp F7            &kp F8             &kp F9             &kp F10       &kp F11       &kp F12
+&bt BT_CLR_ALL  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                          &ext_power EP_ON  &ext_power EP_OFF  &ext_power EP_TOG  &kp K_VOL_UP  &kp K_VOL_DN  &kp EQUAL
+&kp LSHFT       &kp A         &kp S         &kp D         &kp F         &kp G                                 &kp LEFT          &kp DOWN           &kp UP             &kp RIGHT     &kp SEMI      &kp SQT
+&kp LCTRL       &kp Z         &kp X         &kp C         &kp V         &kp B         &kp LBKT     &kp RBKT   &kp BSLH          &kp EQUAL          &kp COMMA          &kp DOT       &kp FSLH      &kp RSHFT
                                             &kp LGUI      &mo 1         &kp LALT      &kp SPACE    &kp ENTER  &kp GRAVE         &mo 1              &kp DEL
             >;
         };
