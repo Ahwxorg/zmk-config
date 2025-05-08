@@ -52,7 +52,7 @@
 &kp F1      &kp F2          &kp F3        &kp F4        &kp F5        &kp F6                                    &kp F7        &kp F8        &kp F9        &kp F10       &kp F11       &kp F12
 &kp ESCAPE  &kp NUMBER_1    &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5                              &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0  &kp MINUS
 &kp LCTRL   &bt BT_CLR_ALL  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &kp G                                     &kp LEFT      &kp DOWN      &kp UP        &kp RIGHT     &kp SEMI      &kp SQT
-&kp LCTRL   &kp Z           &kp X         &kp C         &kp V         &kp B         &mkp LCLK    &kp GRAVE      &kp BSLH      &kp EQUAL     &kp C_VOL_DN  &kp C_VOL_UP  &kp FSLH      &kp RSHFT
+&kp LSHIFT  &kp Z           &kp X         &kp C         &kp V         &kp B         &mkp LCLK    &kp GRAVE      &kp BSLH      &kp EQUAL     &kp C_VOL_DN  &kp C_VOL_UP  &kp FSLH      &kp RSHFT
                                           &kp LGUI      &mo 1         &kp LALT      &kp SPACE    &kp BACKSPACE  &kp GRAVE     &mo 1         &kp DEL
             >;
         };
