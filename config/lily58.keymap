@@ -57,7 +57,7 @@
 &kp TAB     &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5                              &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0  &kp MINUS
 &kp LCTRL   &kp TAB       &trans        &trans        &trans        &trans                                    &kp LEFT      &kp DOWN      &kp UP        &kp RIGHT     &kp SEMI      &kp SQT
 &kp LSHIFT  &trans        &trans        &trans        &trans        &trans        &mkp LCLK    &kp GRAVE      &kp BSLH      &kp EQUAL     &kp COMMA     &kp PERIOD    &kp FSLH      &kp RSHFT
-                                        &kp LSHIFT    &mo 1         &kp LALT      &kp SPACE    &kp BACKSPACE  &kp GRAVE     &mo 1         &kp DEL
+                                        &kp GRAVE     &mo 1         &kp LALT      &kp SPACE    &kp BACKSPACE  &kp GRAVE     &mo 1         &kp DEL
             >;
         };
 
